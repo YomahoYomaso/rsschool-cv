@@ -1,0 +1,72 @@
+
+html {
+    height: 100%;
+}
+
+body {
+    font: 12px/18px Arial, sans-serif;
+    height: 100%;
+}
+.wrapper {
+    max-width: 1024px;
+    margin: 0 auto;
+    min-height: 100%;
+}
+body {
+    font-family: "Comic Sans MS", serif
+}
+
+.header {
+    height: 50px;
+}
+
+
+.content {
+    padding: 0 0 100px;
+}
+
+#information {
+    width: 65%;
+    float: left;
+}
+
+
+
+#photo {
+    float: right;
+    width: 30%;
+}
+
+h1 {
+    font-size: 300%; /* Размер шрифта */
+    text-align: center;
+    border-bottom: 2px solid gray; /* Параметры линии под текстом */
+    padding-bottom: 15px; /* Расстояние от текста до линии */
+
+}
+h2 {
+    font-size: 200%; /* Размер шрифта */
+    padding-bottom: 10px;
+}
+
+p{
+    font-size: 150%;
+}
+
+li {
+    font-weight: normal;
+}
+h3 {
+    font-size: 150%; /* Размер шрифта */
+
+}
+
+
+
+
+.round {
+    border-radius: 100%; /* Радиус скругления */
+    width: 250px;
+    height: 280px;
+    box-shadow: 5px 5px 15px 1px #000;
+}
